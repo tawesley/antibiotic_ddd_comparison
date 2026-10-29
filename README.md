@@ -1,7 +1,7 @@
 # Antibiotic DDD Comparison
 
 ## Oral Defined Daily Doses of antibacterials vs other drug classes
-This repository contains the analysis for the dose comparison discussed in Ta, W. & Stokes, J.M. *A candid exploration of what AI can and cannot do for antibiotic discovery*.
+This repository contains the analysis for the dose comparison discussed in Ta, W. & Stokes, J.M. *An honest exploration of what AI can and cannot do for antibiotic discovery*.
 
 This analysis compares the World Health Organization (WHO) Defined Daily Doses (DDDs) of oral antibacterials (Anatomical Therapeutic Chemical (ATC) group J01) with those of oral drugs from three ATC anatomical main groups:
 - Cardiovascular system (C)
